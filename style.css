@@ -1,0 +1,24 @@
+.container{
+  margin: 50px auto;
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin: 12px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+.ramen{
+  display: flex;
+  justify-content: space-around;
+}
+.dance{
+  width: 600px;
+  margin: 50px auto;
+  padding-top: 30px;
+  border-top: 1px solid gray;
+  text-align: center;
+}
+#dancing{
+  margin-left: 60px;
+}
